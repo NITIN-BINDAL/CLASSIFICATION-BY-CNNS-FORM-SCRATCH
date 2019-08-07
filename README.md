@@ -1,4 +1,4 @@
-# CLASSIFICATION-BY-CNNS-FORM-SCRATCH
+# CLASSIFICATION-BY-CNNS-FROM-SCRATCH
 In this we will classify 3 diffrent types of apples dataset with CNNs from scratch with 99.7% accuracy and will show you how to convert image dataset into a trainable dataset using numpy and tensorflow (not 2.0)...
 
 
